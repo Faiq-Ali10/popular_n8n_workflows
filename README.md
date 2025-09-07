@@ -24,7 +24,7 @@ A FastAPI application that fetches and stores popular **n8n workflows** from You
 - SQLAlchemy
 - PostgreSQL
 - Pydantic
-- LangChain + Gemini for workflow filtering
+- LangChain + Gemini LLM for workflow filtering
 - dotenv for environment variables
 
 ---
