@@ -1,0 +1,27 @@
+# Environment & .env
+python-dotenv>=1.0.0
+
+# HTTP requests
+requests>=2.30.0
+
+# Type hints
+typing-extensions>=4.5.0
+pydantic>=2.5.1
+
+# SQLAlchemy & Database
+SQLAlchemy>=2.0.20
+psycopg2-binary>=2.9.9
+
+# FastAPI
+fastapi>=0.111.0
+uvicorn>=0.23.2
+
+# LangChain & Google AI integration
+langchain-google-genai>=0.0.2
+
+# PyTrends (Google Trends)
+pytrends>=4.9.0
+
+# Notes:
+# - Adjust versions if you already have specific constraints
+# - If you use any other DB (SQLite/MySQL), add relevant drivers
